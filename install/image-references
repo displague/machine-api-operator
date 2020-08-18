@@ -62,3 +62,7 @@ spec:
     from:
       kind: DockerImage
       name: registry.svc.ci.openshift.org/openshift:ovirt-machine-controllers
+  - name: packet-machine-controllers
+    from:
+      kind: DockerImage
+      name: registry.svc.ci.openshift.org/openshift:packet-machine-controllers

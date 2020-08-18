@@ -39,6 +39,8 @@ Ensure presence of expected number of replicas and a given provider config for a
 
   - [cluster-api-provider-ovirt](https://github.com/openshift/cluster-api-provider-ovirt)
 
+  - [cluster-api-provider-packet](https://github.com/openshift/cluster-api-provider-packet)
+
 Ensure that a provider instance is created for a Machine object in a given provider.
 
 - Node link Controller
